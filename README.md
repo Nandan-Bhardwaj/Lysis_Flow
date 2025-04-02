@@ -1,7 +1,7 @@
 # Lysis_Flow
 
 
-** Lysis Flow ** is designed to help users raise complaints regarding a ticket issued to them. It streamlines the process of complaint tracking, assigning queries to employees, and resolving them efficiently. The system has three roles: Admin, Employees, and Users. It is built using Spring Boot 3.4.x, Spring Security (JWT), Spring Data JPA, Spring Mail Sender, and MySQL.
+**Lysis Flow** is designed to help users raise complaints regarding a ticket issued to them. It streamlines the process of complaint tracking, assigning queries to employees, and resolving them efficiently. The system has three roles: Admin, Employees, and Users. It is built using Spring Boot 3.4.x, Spring Security (JWT), Spring Data JPA, Spring Mail Sender, and MySQL.
 
 
 This project aims to develop a web-based Lysis Flow using Java Spring Boot with Maven. The system consists of multiple modules:
